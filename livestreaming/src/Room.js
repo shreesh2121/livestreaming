@@ -39,9 +39,6 @@ function Room() {
       container: element,
       scenario: {
         mode: ZegoUIKitPrebuilt.LiveStreaming,
-        // config: {
-        //   role,
-        // },
       },
       sharedLinks: [
         {
